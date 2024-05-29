@@ -1,1 +1,1 @@
-This repository will contain .wws files associated with the WeCreat laser engraver and cutter.
+This repository will contains project files associated with the WeCreat MakeIt (.wws) laser engraver and cutter.
